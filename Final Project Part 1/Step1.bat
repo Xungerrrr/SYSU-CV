@@ -1,0 +1,11 @@
+g++ Step1.cpp Canny.cpp Hough.cpp Warping.cpp -lgdi32 -o Step1
+.\Step1.exe ImageData\1.jpg 2 0.97 0.97 250 80 1.jpg
+.\Step1.exe ImageData\2.jpg 2 0.97 0.97 250 80 2.jpg
+.\Step1.exe ImageData\3.jpg 2 0.97 0.97 200 80 3.jpg
+.\Step1.exe ImageData\4.jpg 2 0.97 0.97 200 80 4.jpg
+.\Step1.exe ImageData\5.jpg 2 0.97 0.97 200 80 5.jpg
+.\Step1.exe ImageData\6.jpg 2 0.97 0.97 200 80 6.jpg
+.\Step1.exe ImageData\7.jpg 2 0.97 0.97 200 80 7.jpg
+.\Step1.exe ImageData\8.jpg 2 0.97 0.97 200 80 8.jpg
+.\Step1.exe ImageData\9.jpg 2 0.97 0.97 200 80 9.jpg
+.\Step1.exe ImageData\10.jpg 2 0.97 0.97 200 80 10.jpg

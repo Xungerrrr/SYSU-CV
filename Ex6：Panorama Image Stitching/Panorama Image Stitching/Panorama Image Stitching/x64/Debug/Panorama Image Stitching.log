@@ -1,0 +1,11 @@
+﻿  Feature.cpp
+e:\xungerrrr\sysu\大三上\计算机视觉\作业6\panorama image stitching\panorama image stitching\feature.cpp(17): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\xungerrrr\sysu\大三上\计算机视觉\作业6\panorama image stitching\panorama image stitching\feature.cpp(65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\xungerrrr\sysu\大三上\计算机视觉\作业6\panorama image stitching\panorama image stitching\feature.cpp(65): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+  Panorama Image Stitching.cpp
+  正在生成代码...
+  Panorama Image Stitching.vcxproj -> E:\Xungerrrr\SYSU\大三上\计算机视觉\作业6\Panorama Image Stitching\x64\Debug\Panorama Image Stitching.exe
